@@ -36,7 +36,7 @@
 .icon-camera,
 .icon-camrecorder,
 .icon-chart,
-.icon-check,
+.,
 .icon-chemistry,
 .icon-clock,
 .icon-close,
@@ -330,7 +330,7 @@
     content: "\e07b"
 }
 
-.icon-check:before {
+.:before {
     content: "\e080"
 }
 
